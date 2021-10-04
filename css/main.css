@@ -424,7 +424,7 @@ section {
     margin: auto;
 }
 .box>* {
-    flex: 1 1 300px;
+    flex: 1 1 500px;
 }
 
 .tracks {
